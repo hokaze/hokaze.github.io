@@ -1,4 +1,4 @@
-# hokaze @ github  
+# $developer Needs Food Badly
   
 If you like something I've made and want to support my continued existence, feel free to [buy me a drink](https://www.paypal.me/hokaze/1) or maybe even [buy me a pizza](https://www.paypal.me/hokaze/5).  
   
@@ -17,7 +17,8 @@ A [dice roller for Android](https://play.google.com/store/apps/details?id=com.ho
 An [Android App](https://play.google.com/store/apps/details?id=com.hokaze.pathfinderbackgroundgenerator) that automates the many random tables of Pathfinder Ultimate Campaign's random background generator.  
   
 ### [tkinter-png](https://github.com/hokaze/tkinter-png)  
-An old set of hacks allowing for png support in tkinter purely through python modules. Also adds a few extensions to the PhotoImage class present in tcl/tk but missing in the normal python bindings.  
+An old set of hacks allowing for png support in tkinter purely through python modules.  
+Also adds a few extensions to the PhotoImage class present in tcl/tk but missing in the normal python bindings.  
 Useful if you don't have permissions to install PIL, Pillow or another major image library.  
   
   

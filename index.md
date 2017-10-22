@@ -1,14 +1,8 @@
 # hokaze @ github  
   
-## Bio  
-Programmer, writer, artist, gamer.  
-Struggling with MH, it's a fight to get up each day.  
-Roll Initiative. \[He/They\]  
-  
 If you like something I've made and want to support my continued existence, feel free to [buy me a drink](https://www.paypal.me/hokaze/1) or maybe even [buy me a pizza](https://www.paypal.me/hokaze/5).  
 Not saying either of those will _guarantee_ I'll keep making stuff you like or implement a feature you want, but they certainly help ;)  
-  
-  
+    
 ## Some things I've made  
   
 ### [Process ID 90001](https://github.com/hokaze/Process-ID-9001)  

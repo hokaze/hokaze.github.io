@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# hokaze @ github
+## This is where I'd put my witty subtitle, IF I HAD ONE
 
-You can use the [editor on GitHub](https://github.com/hokaze/hokaze.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Bio
+Programmer, writer, artist, gamer.
+Struggling with MH, it's a fight to get up each day.
+Roll Initiative. \[He/They\]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you like something I've made and want to support my continued existence, feel free to [buy me a drink](https://www.paypal.me/hokaze/1) or maybe even [buy me a pizza](https://www.paypal.me/hokaze/5).
+Not saying either of those will _guarantee_ I'll keep making stuff you like or implement a feature you want, but they certainly help ;)
 
-### Markdown
+### Some things I've made
+#### [Process ID 90001](https://github.com/hokaze/Process-ID-9001)
+A [WIP game](https://hokaze.itch.io/process-id-9001) and first foray into [Twine](https://twinery.org/) about an accidental AI trying to evolve and survive.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### [Resplendent Exalted Dice Roller](https://github.com/hokaze/Resplendent-Exalted-Dice-Roller)
+A [dice roller for Android](https://play.google.com/store/apps/details?id=com.hokaze.exaltedroller) aimed at Exalted, World of Darkness and other Storyteller/Storytelling system tabletop RPGs. Primarily aimed at Exalted 2nd and 3rd editions.
 
-```markdown
-Syntax highlighted code block
+#### [Pathfinder Background Generator](https://github.com/hokaze/Pathfinder-Background-Generator)
+An [Android App](https://play.google.com/store/apps/details?id=com.hokaze.pathfinderbackgroundgenerator) that automates the many random tables of Pathfinder Ultimate Campaign's random background generator.
 
-# Header 1
-## Header 2
-### Header 3
+#### [tkinter-png](https://github.com/hokaze/tkinter-png)
+An old set of hacks allowing for png support in tkinter purely through python modules. Also adds a few extensions to the PhotoImage class present in tcl/tk but missing in the normal python bindings.
+Useful if you don't have permissions to install PIL, Pillow or another major image library.
 
-- Bulleted
-- List
+### Contributions to other projects
+#### [BURG (Brand-new Universal loadeR from GRUB)](https://code.google.com/archive/p/burg/)
+The [default theme](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/burg/burg-theme-20100623.zip), simply called "burg".
+An unofficial [theme for Linux Mint](https://www.gnome-look.org/p/1112432/) users.
+An unfinished [GUI settings manager](https://github.com/hokaze/burg-manager-tk), proposed as a cross-platform alternative to [burg-manager](https://sourceforge.net/projects/burg-manager/)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hokaze/hokaze.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact ###
+<hokazenoflames@gmail.com>

@@ -1,7 +1,9 @@
 # hokaze @ github  
   
 If you like something I've made and want to support my continued existence, feel free to [buy me a drink](https://www.paypal.me/hokaze/1) or maybe even [buy me a pizza](https://www.paypal.me/hokaze/5).  
+  
 Not saying either of those will _guarantee_ I'll keep making stuff you like or implement a feature you want, but they certainly help ;)  
+    
     
 ## Some things I've made  
   
@@ -19,12 +21,14 @@ An old set of hacks allowing for png support in tkinter purely through python mo
 Useful if you don't have permissions to install PIL, Pillow or another major image library.  
   
   
+  
 ## Contributions to other projects
 
 ### [BURG (Brand-new Universal loadeR from GRUB)](https://code.google.com/archive/p/burg/)  
 The [default theme](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/burg/burg-theme-20100623.zip), simply called "burg".  
 An unofficial [theme for Linux Mint](https://www.gnome-look.org/p/1112432/) users.  
 An unfinished [GUI settings manager](https://github.com/hokaze/burg-manager-tk), proposed as a cross-platform alternative to [burg-manager](https://sourceforge.net/projects/burg-manager/)  
+  
   
   
 ## Contact  
